@@ -49,7 +49,7 @@ trading-bot/
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/python-trading-bot.git
+git clone https://github.com/anomoly12/bert.git
 cd python-trading-bot
 
 # 2. Install dependencies
